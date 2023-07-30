@@ -1,1 +1,3 @@
-
+id, name, country_id, population, rating
+1, Paris, 1, 2243000, 5
+2, Berlin, 2, 3460000, 3
